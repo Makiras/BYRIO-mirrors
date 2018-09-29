@@ -46,7 +46,7 @@ then save the file and restart `dockerd`
 
 make a backup of the file `/etc/apt.sourses.list`
 
-then change the url like the following part, for example the 10.04 LTS version
+then change the url like the following part, for example the 18.04 LTS version
 
 ```text
 deb https://mirrors.byrio.org/ubuntu/ bionic main restricted universe multiverse
